@@ -11,7 +11,7 @@
 ## 🔗 Live Application
 
 👉 **[Open the App on Streamlit Cloud](https://mlproj-aax5ikmwktyvugkvpvejmf.streamlit.app)**
-📹 **[Video Walkthrough](https://YOUR-VIDEO-LINK)**
+📹 **[Video Walkthrough](https://drive.google.com/file/d/1FpzhKSLhhoTmNeGHlduCnnRONJlmV-Ha/view?usp=sharing)**
 💻 **[GitHub Repository](https://github.com/MalakGamalEleza/MLPROJ)**
 
 ---
