@@ -45,7 +45,7 @@ This project implements a complete end-to-end data science workflow — from raw
 
 | Property | Detail                                           |
 | -------- | ------------------------------------------------ |
-| Source   | Kaggle — Heart Disease Health Indicators Dataset |
+| Source   | Kaggle — Heart Disease Health Indicators Dataset (https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset?utm_source=chatgpt.com)|
 | Rows     | ~253,680 records                                 |
 | Columns  | 10 selected features                             |
 | Target   | Heart Disease or Heart Attack                    |
