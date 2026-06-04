@@ -180,7 +180,7 @@ streamlit run app.py
 
 ---
 
-## 📦 Dependencies
+## 📦 Libraries
 
 ```txt
 streamlit
